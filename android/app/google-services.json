@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1079734188401",
+    "firebase_url": "https://fir-chat-dsd-20-1jmm.firebaseio.com",
+    "project_id": "fir-chat-dsd-20-1jmm",
+    "storage_bucket": "fir-chat-dsd-20-1jmm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079734188401:android:1f610a59f55193d7621ed0",
+        "android_client_info": {
+          "package_name": "pe.edu.unmsm.jabmm.flutter_flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079734188401-nio43ho93d12ejr62m9bigjmp23gdo6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcOWlwnyPu6Gnz2G2HYObPKjR3j_CXQ6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079734188401-nio43ho93d12ejr62m9bigjmp23gdo6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
